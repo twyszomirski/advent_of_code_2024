@@ -1,9 +1,18 @@
 package org.twyszomirski.aoc.solutions
 
+import java.io.File
 import kotlin.collections.mutableListOf
 import kotlin.math.abs
 
 class Day_1 {
+
+    fun solve(){
+        val lines = File("src/main/resources/input_day_1.txt").readLines()
+        println("======== Day 1 ===========")
+        part1(lines)
+        part2(lines)
+    }
+
     fun part1(input: List<String>) {
         val folded = input
             .map { it.split(" ").filter { it.isNotBlank() } }
