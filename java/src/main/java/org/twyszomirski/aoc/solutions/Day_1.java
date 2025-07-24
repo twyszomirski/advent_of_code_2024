@@ -1,5 +1,7 @@
 package org.twyszomirski.aoc.solutions;
 
+import org.twyszomirski.aoc.utils.Pair;
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -51,6 +53,4 @@ public class Day_1 {
 
         println(sum);
     }
-
-    record Pair<T>(T left, T right) { }
 }
