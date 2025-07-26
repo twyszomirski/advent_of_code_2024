@@ -1,10 +1,7 @@
 package org.twyszomirski.aoc.solutions
 
 import java.io.File
-import kotlin.math.abs
-import kotlin.math.max
 import kotlin.math.min
-import kotlin.math.sign
 
 
 class Day_3 {
@@ -65,7 +62,5 @@ class Day_3 {
         part1(listOf(trimmed))
     }
 
-
+    data class ParseResult(val advance: Int, val result: Pair<Int, Int>?)
 }
-
-data class ParseResult(val advance: Int, val result: Pair<Int, Int>?)
