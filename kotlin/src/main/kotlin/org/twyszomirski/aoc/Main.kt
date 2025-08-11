@@ -6,6 +6,7 @@ import org.twyszomirski.aoc.solutions.Day_3
 import org.twyszomirski.aoc.solutions.Day_4
 import org.twyszomirski.aoc.solutions.Day_5
 import org.twyszomirski.aoc.solutions.Day_6
+import org.twyszomirski.aoc.solutions.Day_7
 import java.io.File
 
 
@@ -15,6 +16,7 @@ fun main() {
     //Day_3().solve()
     //Day_4().solve()
     //Day_5().solve()
-    Day_6().solve()
+    //Day_6().solve()
+    Day_7().solve()
 }
 
