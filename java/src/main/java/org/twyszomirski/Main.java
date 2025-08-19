@@ -1,10 +1,7 @@
 package org.twyszomirski;
 
 
-import org.twyszomirski.aoc.solutions.Day_1;
-import org.twyszomirski.aoc.solutions.Day_2;
-import org.twyszomirski.aoc.solutions.Day_3;
-import org.twyszomirski.aoc.solutions.Day_4;
+import org.twyszomirski.aoc.solutions.*;
 
 import java.io.IOException;
 
@@ -13,6 +10,7 @@ public class Main {
         //Day_1.solve();
         //Day_2.solve();
         //Day_3.solve();
-        Day_4.solve();
+        //Day_4.solve();
+        Day_5.solve();
     }
 }
