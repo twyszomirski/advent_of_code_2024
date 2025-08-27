@@ -11,7 +11,8 @@ public class Main {
         //Day_2.solve();
         //Day_3.solve();
         //Day_4.solve();
-        //Day_5.solve();\
-        Day_6.solve();
+        //Day_5.solve();
+        //Day_6.solve();
+        Day_7.solve();
     }
 }
