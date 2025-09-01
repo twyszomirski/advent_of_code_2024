@@ -2,6 +2,7 @@ package org.twyszomirski.org.twyszomirski
 
 import org.twyszomirski.aoc.solutions.Day_1
 import org.twyszomirski.aoc.solutions.Day_10
+import org.twyszomirski.aoc.solutions.Day_11
 import org.twyszomirski.aoc.solutions.Day_2
 import org.twyszomirski.aoc.solutions.Day_3
 import org.twyszomirski.aoc.solutions.Day_4
@@ -23,6 +24,7 @@ fun main() {
     //Day_7().solve()
     //Day_8().solve()
     //Day_9().solve()
-    Day_10().solve()
+    //Day_10().solve()
+    Day_11().solve()
 }
 
