@@ -17,6 +17,7 @@ public class Main {
         //Day_8.solve();
         //Day_9.solve();
         //Day_10.solve();
-        Day_11.solve();
+        //Day_11.solve();
+        Day_12.solve();
     }
 }
