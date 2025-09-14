@@ -7,7 +7,7 @@ class Day_14 {
 
     fun solve() {
         val lines = File("src/main/resources/input_day_14.txt").readLines()
-        println("======== Day 13 ===========")
+        println("======== Day 14 ===========")
         part1(lines)
         part2(lines)
     }
