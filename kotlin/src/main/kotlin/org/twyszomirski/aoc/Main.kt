@@ -7,6 +7,7 @@ import org.twyszomirski.aoc.solutions.Day_12
 import org.twyszomirski.aoc.solutions.Day_13
 import org.twyszomirski.aoc.solutions.Day_14
 import org.twyszomirski.aoc.solutions.Day_15
+import org.twyszomirski.aoc.solutions.Day_16
 import org.twyszomirski.aoc.solutions.Day_2
 import org.twyszomirski.aoc.solutions.Day_3
 import org.twyszomirski.aoc.solutions.Day_4
@@ -33,6 +34,7 @@ fun main() {
     //Day_12().solve()
     //Day_13().solve()
     //Day_14().solve()
-    Day_15().solve()
+    //Day_15().solve()
+    Day_16().solve()
 }
 
